@@ -23,6 +23,10 @@
               <router-link class="nav-link" to="/orders">Orders</router-link>
             </li>
 
+             <li class="nav-item">
+              <router-link class="nav-link" to="/categorys">Categorys</router-link>
+            </li>
+
             <li class="nav-item">
               <router-link class="nav-link" to="/show_orders">Orders Detail</router-link>
             </li>
